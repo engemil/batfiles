@@ -1,4 +1,4 @@
-# .Bat-Files
+# .bat-Files
 
 This repository hold my .Bat-files, for script files in Windows. Consider these scripts as demos or examples.
 

@@ -1,4 +1,4 @@
-# Docker WSL and USB
+# Docker, WSL, usbipd, and USB Devices
 
 These scripts does the following:
 - Start up Docker Desktop (if installed)
